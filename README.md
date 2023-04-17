@@ -10,13 +10,11 @@
 
   Upon completion of this lab, you will be able to:
   
-- Create pandas Series objects and retrieve their attributes, such as values and index.
-- Access Series objects through their items() method and by using categorical or numerical indexes.
-- Manipulate Series objects using various methods, including append, concat, pop, sort_values, sort_index, or value_counts.
-- Create pandas DataFrame objects and retrieve their attributes, including index, values, columns or dtypes.
-- Access data in DataFrames through columns (as a dictionary or attribute) and by using loc and iloc to access rows.
+- Create Pandas DataFrames from CSV files.
+- Explore Pandas DataFrames to get the number of rows, columns, summary statistics and data types.
+- Manipulate Series objects using various methods, including sort_values or value_counts.
+- Access data in DataFrames through columns (as a dictionary or attribute) and by using loc or iloc to access rows.
 - Filter and select data in DataFrames using simple comparison and logical operators
-- Use various methods to explore and summarize DataFrames, such as shape, head, tail, describe, info, nunique, max, min, and mean
 
   <br>
   <hr> 
