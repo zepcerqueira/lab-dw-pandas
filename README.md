@@ -56,7 +56,7 @@ During this lab, you will learn how to create pandas series and dataframes, acce
 
 ## Getting Started
 
-Complete the challenges in the `src` directory. Follow the instructions and add your code and explanations as necessary.
+Complete the challenges in the `Jupyter Notebook` file. Follow the instructions and add your code and explanations as necessary.
 
 ## Submission
 
