@@ -48,6 +48,44 @@ During this lab, you will learn how to create pandas series and dataframes, acce
 
 **Happy coding!** :heart:
 
+## About the dataset
+
+### Context
+This is customer data with their vehicle insurance policies. Details about customers and the insurance taken for their vehicles are provided which can be explored to segment similar kind of customers.
+
+### Content
+The socio-economic data of the customer with details about the insured vehicle is the data content. Data contains both categorical and numerical variables. The customer lifetime value based on historical data has also been provided which is essential in understanding the customer purchase behavior.
+
+### Acknowledgements
+UCI ML repository
+
+### Inspiration
+The data is useful for clustering customers according to their behavior, thereby enabling targeted marketing of a new insurance policy. This helps pre-estimating a budget for marketing expenses.
+
+### Data Description
+
+- Customer - Customer ID
+
+- ST - State where customers live
+
+- Gender - Gender of the customer
+
+- Education - Background education of customers 
+
+- Customer Lifetime Value - Customer lifetime value(CLV) is the total revenue the client will derive from their entire relationship with a customer. In other words, is the predicted or calculated value of a customer over their entire duration as a policyholder with the insurance company. It is an estimation of the net profit that the insurance company expects to generate from a customer throughout their relationship with the company. Customer Lifetime Value takes into account factors such as the duration of the customer's policy, premium payments, claim history, renewal likelihood, and potential additional services or products the customer may purchase. It helps insurers assess the long-term profitability and value associated with retaining a particular customer.
+
+- Income - Customers income
+
+- Monthly Premium Auto - Amount of money the customer pays on a monthly basis as a premium for their auto insurance coverage. It represents the recurring cost that the insured person must pay to maintain their insurance policy and receive coverage for potential damages, accidents, or other covered events related to their vehicle.
+
+- Number of Open Complaints - Number of complaints the customer opened
+
+- Policy Type - There are three type of policies in car insurance (Corporate Auto, Personal Auto, and Special Auto)
+
+- Vehicle Class - Type of vehicle classes that customers have Two-Door Car, Four-Door Car SUV, Luxury SUV, Sports Car, and Luxury Car
+
+- Total Claim Amount - the sum of all claims made by the customer. It represents the total monetary value of all approved claims for incidents such as accidents, theft, vandalism, or other covered events.
+
 
 ## Requirements
 
